@@ -1,0 +1,4 @@
+this is my first file operation. Write in my test2.txt
+How are you doing
+it is great to be working in python
+this is gibrish ishoihewfhfe; dn;e;ewfhiewfn fwewfef
